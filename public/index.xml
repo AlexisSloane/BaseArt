@@ -6,6 +6,12 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>BaseArt</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Ma collection d’artistes classés par siècle, mouvement, et style.</description>
+    <pubDate>Mon, 21 Apr 2025 14:55:45 GMT</pubDate>
+  </item><item>
     <title>Francisco Goya</title>
     <link>https://quartz.jzhao.xyz/Artistes/Francisco-Goya</link>
     <guid>https://quartz.jzhao.xyz/Artistes/Francisco-Goya</guid>
@@ -58,12 +64,6 @@
     <link>https://quartz.jzhao.xyz/Artistes/Keiichi-Tanaami</link>
     <guid>https://quartz.jzhao.xyz/Artistes/Keiichi-Tanaami</guid>
     <description>Notes Keiichi Tanaami est un artiste japonais né en 1936, connu pour son style flamboyant, coloré et onirique mêlant pop art, psychédélisme, collage, et animation expérimentale.</description>
-    <pubDate>Mon, 21 Apr 2025 13:30:29 GMT</pubDate>
-  </item><item>
-    <title>Leonor Fini</title>
-    <link>https://quartz.jzhao.xyz/Artistes/Leonor-Fini</link>
-    <guid>https://quartz.jzhao.xyz/Artistes/Leonor-Fini</guid>
-    <description>Notes Leonor Fini est une artiste peintre, écrivaine, costumière et figure iconique du surréalisme, née à Buenos Aires (Argentine) en 1907, élevée à Trieste (Italie), et ayant vécu une grande partie de sa vie à Paris.</description>
     <pubDate>Mon, 21 Apr 2025 13:30:29 GMT</pubDate>
   </item>
     </channel>
